@@ -1,1 +1,20 @@
-Computer Science student at PUC Minas
+# Gabriel Carvalho
+
+🎓 Computer Science Student @ PUC Minas  
+💻 Software Development | Algorithms & Data Structures  
+☁️ Cloud Computing Enthusiast  
+🤖 AI & Developer Productivity Tools  
+🌱 Always learning and building new skills
+
+## Technologies & Tools
+- C
+- C++
+
+## Current Focus
+- Algorithms and Data Structures
+- Software Engineering Fundamentals
+- Artificial Intelligence Applications
+
+## Contact
+- LinkedIn: linkedin.com/in/gabrielcarvalhocomp
+- Email: gabrielcarvsoa@gmail.com
