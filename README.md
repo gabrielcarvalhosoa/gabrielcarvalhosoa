@@ -2,8 +2,6 @@
 
 🎓 Computer Science Student @ PUC Minas  
 💻 Software Development | Algorithms & Data Structures  
-☁️ Cloud Computing Enthusiast  
-🤖 AI & Developer Productivity Tools  
 🌱 Always learning and building new skills
 
 ## Technologies & Tools
