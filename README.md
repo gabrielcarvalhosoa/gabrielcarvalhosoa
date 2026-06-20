@@ -1,6 +1,6 @@
 # Gabriel Carvalho
 
-- Computer Science Student @ PUC Minas  
+- Computer Science Student at PUC Minas  
 - Software Development | Algorithms & Data Structures  
 - Always learning and building new skills
 
