@@ -7,6 +7,7 @@
 ## Technologies & Tools
 - C
 - C++
+- Java
 
 ## Current Focus
 - Algorithms and Data Structures
