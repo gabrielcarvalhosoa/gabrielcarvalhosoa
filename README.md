@@ -15,5 +15,5 @@
 - Artificial Intelligence Applications
 
 ## Contact
-- LinkedIn: [linkedin.com/in/gabrielcarvalhocomp](https://www.linkedin.com/in/gabrielcarvalhocomp/)
+- LinkedIn: [linkedin.com/in/gabrielcarvalhocomp](https://www.linkedin.com/in/gabrielcarvalhosoa)
 - Email: gabrielcarvsoa@gmail.com
