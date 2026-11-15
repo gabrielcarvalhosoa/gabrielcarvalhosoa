@@ -114,7 +114,6 @@ Bilingual (Portuguese and English) portfolio website, built with plain HTML, CSS
 - Portuguese: native or bilingual
 - English: full professional proficiency
 
-<!--
 GitHub Statistics (re-enable once the profile has more public activity)
 
 <div align="center">
@@ -123,7 +122,6 @@ GitHub Statistics (re-enable once the profile has more public activity)
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarvalhosoa&layout=compact&hide_border=true&bg_color=1E1E2E&title_color=FF9F1C&text_color=E4E1D8" alt="Most used languages" />
 
 </div>
--->
 
 ## Contact
 
