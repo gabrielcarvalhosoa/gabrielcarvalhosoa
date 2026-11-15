@@ -54,7 +54,6 @@ Arduino-based system for soil monitoring and automated irrigation of a vegetable
 - Reads soil moisture (HD-38) and ambient temperature (DS18B20) simultaneously and classifies plant health in real time.
 - Displays readings on a 16x2 I2C LCD and signals the overall status on an RGB LED, which always reflects the worst of the two conditions.
 - Controls a relay-driven irrigation system automatically, with manual and automatic modes selectable from a mobile app over Bluetooth.
-- Includes a custom 3D-printed enclosure for the electronics.
 
 ![C++](https://img.shields.io/badge/C++-1E1E2E?style=flat-square&logo=cplusplus&logoColor=FF9F1C)
 ![Arduino](https://img.shields.io/badge/Arduino-1E1E2E?style=flat-square&logo=arduino&logoColor=FF9F1C)
