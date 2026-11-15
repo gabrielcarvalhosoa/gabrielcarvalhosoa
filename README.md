@@ -99,6 +99,15 @@ Bilingual (Portuguese and English) portfolio website, built with plain HTML, CSS
 [![Repository](https://img.shields.io/badge/View_repository-gabrielcarvalhosoa.github.io-FF9F1C?style=for-the-badge&logo=github&logoColor=1E1E2E)](https://github.com/gabrielcarvalhosoa/gabrielcarvalhosoa.github.io)
 [![Live site](https://img.shields.io/badge/Live_site-gabrielcarvalhosoa.github.io-1E1E2E?style=for-the-badge&logo=googlechrome&logoColor=FF9F1C)](https://gabrielcarvalhosoa.github.io/)
 
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalhosoa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=1E1E2E&title_color=FF9F1C&icon_color=FF9F1C&text_color=E4E1D8" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcarvalhosoa&layout=compact&hide_border=true&cache_seconds=86400&bg_color=1E1E2E&title_color=FF9F1C&text_color=E4E1D8" alt="Most used languages" />
+
+</div>
+
 ## Education and Certifications
 
 **Education**
@@ -113,19 +122,6 @@ Bilingual (Portuguese and English) portfolio website, built with plain HTML, CSS
 **Languages**
 - Portuguese: native or bilingual
 - English: full professional proficiency
-
-<!-- 
-
-GitHub Statistics (re-enable once the profile has more public activity)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalhosoa&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=FF9F1C&icon_color=FF9F1C&text_color=E4E1D8" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarvalhosoa&layout=compact&hide_border=true&bg_color=1E1E2E&title_color=FF9F1C&text_color=E4E1D8" alt="Most used languages" />
-
-</div>
-
--->
 
 ## Contact
 
