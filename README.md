@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Gabriel Carvalho — Computer Science Student" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E2E&fontColor=FF9F1C&height=180&section=header&text=Gabriel%20Carvalho&fontSize=64&fontAlign=50&fontAlignY=45" width="100%" alt="Gabriel Carvalho" />
 
 <a href="https://github.com/gabrielcarvalhosoa">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=FF9F1C&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+%40+PUC+Minas;C+%7C+C%2B%2B+%7C+Java+%7C+Embedded+Software;Algorithms+%26+Data+Structures+%7C+Front-End+Development" alt="Typing SVG" />
