@@ -103,8 +103,12 @@ Bilingual (Portuguese and English) portfolio website, built with plain HTML, CSS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalhosoa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=1E1E2E&title_color=FF9F1C&icon_color=FF9F1C&text_color=E4E1D8" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcarvalhosoa&layout=compact&hide_border=true&cache_seconds=86400&bg_color=1E1E2E&title_color=FF9F1C&text_color=E4E1D8" alt="Most used languages" />
+<img height="170" src="https://streak-stats.demolab.com/?user=gabrielcarvalhosoa&hide_border=true&background=1E1E2E&ring=FF9F1C&fire=FF9F1C&currStreakNum=E4E1D8&sideNums=E4E1D8&currStreakLabel=FF9F1C&sideLabels=E4E1D8&dates=9A9A9A&stroke=3A3A4A" alt="GitHub contribution streak" />
+
+<br/>
+
+<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 
 </div>
 
