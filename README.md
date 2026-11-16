@@ -108,6 +108,9 @@ Bilingual (Portuguese and English) portfolio website, built with plain HTML, CSS
 <br/>
 
 <img height="170" src="https://github-readme-stats-three-pi-65.vercel.app/api?username=gabrielcarvalhosoa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=1E1E2E&title_color=FF9F1C&icon_color=FF9F1C&text_color=E4E1D8" alt="GitHub statistics" />
+
+<br/>
+
 <img height="170" src="https://github-readme-stats-three-pi-65.vercel.app/api/top-langs?username=gabrielcarvalhosoa&layout=compact&hide_border=true&cache_seconds=86400&bg_color=1E1E2E&title_color=FF9F1C&text_color=E4E1D8" alt="Most used languages" />
 
 </div>
