@@ -28,15 +28,40 @@ I am building a solid foundation in **algorithms, data structures, and front-end
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,arduino,html,css,js,bootstrap,git,github,vscode&theme=dark" alt="Technology stack" />
 
-</div>
+<br/><br/>
 
-| Category | Technologies |
-| --- | --- |
-| **Core languages** | C, C++, Java |
-| **Embedded systems** | Arduino |
-| **Front-end (developing)** | HTML, CSS, JavaScript, JSON, Bootstrap, REST APIs (Fetch API) |
-| **Computer science fundamentals** | Algorithms, Data Structures, Problem Solving |
-| **Tools** | Git, GitHub, Visual Studio Code |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Category</th>
+      <th align="center">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Core languages</strong></td>
+      <td>C, C++, Java</td>
+    </tr>
+    <tr>
+      <td><strong>Embedded systems</strong></td>
+      <td>Arduino</td>
+    </tr>
+    <tr>
+      <td><strong>Front-end (developing)</strong></td>
+      <td>HTML, CSS, JavaScript, JSON, Bootstrap, REST APIs (Fetch API)</td>
+    </tr>
+    <tr>
+      <td><strong>Computer science fundamentals</strong></td>
+      <td>Algorithms, Data Structures, Problem Solving</td>
+    </tr>
+    <tr>
+      <td><strong>Tools</strong></td>
+      <td>Git, GitHub, Visual Studio Code</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ## Current Focus
 
