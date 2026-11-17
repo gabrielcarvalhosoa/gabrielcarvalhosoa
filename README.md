@@ -148,8 +148,7 @@ Bilingual (Portuguese and English) portfolio website, built with plain HTML, CSS
 **Certifications and events**
 - GitHub Copilot Dev Days
 - AWS Cloud Clubs: Cloud Architecture
-- Masterclass Excel + AI
-- Soft Skills Workshop in Communication, Rounds 1 and 2 (2026.1)
+- Soft Skills Workshop in Communication, Rounds 1, 2 and 3 (2026.1)
 
 **Languages**
 - Portuguese: native or bilingual
